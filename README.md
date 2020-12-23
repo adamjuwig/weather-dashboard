@@ -1,1 +1,1 @@
-# weather-dashboard
+For this project, we were to create a simple weather application by using AJAX calls to multiple API databases to retrieve information depending on what the user searched for. API's used in this application were from OpenWeather using calls for daily, five day and UV data. The HTML document is changed dynamically by using jQuery and Javascript. The layout of this web application was created by using a CSS Bootstrap grid system. 
